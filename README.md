@@ -1,6 +1,7 @@
 # vlmcsd - Portable open-source KMS Emulator in C  
 **vlmcsd-1113-2020-03-28   [Releases][1]**   
-
+sudo apt install binutils cmake dpkg-dev g++ gcc libssl-dev git libx11-dev
+libxext-dev libxft-dev libxpm-dev python3 libtbb-dev libvdt-dev libgif-dev
 |Supported operating systems / run-time environments|
 :-|
 Supported operating systems：Linux, GNU/Linux, uclibc/Linux, musl/Linux, Android (bionic/Linux), FreeBSD, FreeBSD with glibc (e.g. debian/kFreeBSD), OpenBSD, NetBSD, DragonflyBSD, Solaris, Open Indiana, Dyson, Minix, Darwin, Mac OS, iOS, Windows, Cygwin, WSL, Wine, The Hurd. |
